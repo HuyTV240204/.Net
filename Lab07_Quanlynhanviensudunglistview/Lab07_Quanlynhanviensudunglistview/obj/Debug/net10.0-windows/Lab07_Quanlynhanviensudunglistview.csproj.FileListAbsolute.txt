@@ -1,0 +1,17 @@
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\bin\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.exe
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\bin\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.deps.json
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\bin\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.runtimeconfig.json
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\bin\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.dll
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\bin\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.pdb
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.Form1.resources
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.Properties.Resources.resources
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.csproj.GenerateResource.cache
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.AssemblyInfoInputs.cache
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.AssemblyInfo.cs
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.csproj.CoreCompileInputs.cache
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.dll
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\refint\Lab07_Quanlynhanviensudunglistview.dll
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.pdb
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\Lab07_Quanlynhanviensudunglistview.genruntimeconfig.cache
+D:\Study\nam4_2\.net_tech\Lab07_Quanlynhanviensudunglistview\Lab07_Quanlynhanviensudunglistview\obj\Debug\net10.0-windows\ref\Lab07_Quanlynhanviensudunglistview.dll

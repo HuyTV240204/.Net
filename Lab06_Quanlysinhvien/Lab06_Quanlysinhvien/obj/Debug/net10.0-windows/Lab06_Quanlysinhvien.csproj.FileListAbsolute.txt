@@ -1,0 +1,17 @@
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\bin\Debug\net10.0-windows\Lab06_Quanlysinhvien.exe
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\bin\Debug\net10.0-windows\Lab06_Quanlysinhvien.deps.json
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\bin\Debug\net10.0-windows\Lab06_Quanlysinhvien.runtimeconfig.json
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\bin\Debug\net10.0-windows\Lab06_Quanlysinhvien.dll
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\bin\Debug\net10.0-windows\Lab06_Quanlysinhvien.pdb
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.Form1.resources
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.Properties.Resources.resources
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.csproj.GenerateResource.cache
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.AssemblyInfoInputs.cache
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.AssemblyInfo.cs
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.csproj.CoreCompileInputs.cache
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.dll
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\refint\Lab06_Quanlysinhvien.dll
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.pdb
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\Lab06_Quanlysinhvien.genruntimeconfig.cache
+D:\Study\nam4_2\.net_tech\Lab06_Quanlysinhvien\Lab06_Quanlysinhvien\obj\Debug\net10.0-windows\ref\Lab06_Quanlysinhvien.dll

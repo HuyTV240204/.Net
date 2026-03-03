@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|d:\\study\\nam4_2\\.net_tech\\lab04_bt04\\lab04_bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|solutionrelative:lab04_bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|d:\\study\\nam4_2\\.net_tech\\lab04_bt04\\lab04_bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|solutionrelative:lab04_bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|d:\\study\\nam4_2\\.net_tech\\lab04_bt04\\lab04_bt04\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|solutionrelative:lab04_bt04\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|d:\\study\\nam4_2\\.net_tech\\lab04_bt04\\lab04_bt04\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FB4DC8-306D-A173-BE33-BED11F9EF996}|Lab04_bt04\\Lab04_bt04.csproj|solutionrelative:lab04_bt04\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab04_bt04\\Form1.cs",
+              "ToolTip": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.cs",
+              "RelativeToolTip": "Lab04_bt04\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:38:54.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab04_bt04\\Form1.cs",
+              "ToolTip": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab04_bt04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:38:49.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.resx",
+              "RelativeDocumentMoniker": "Lab04_bt04\\Form1.resx",
+              "ToolTip": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.resx",
+              "RelativeToolTip": "Lab04_bt04\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-22T12:38:48.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab04_bt04\\Form1.Designer.cs",
+              "ToolTip": "D:\\Study\\nam4_2\\.net_tech\\Lab04_bt04\\Lab04_bt04\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab04_bt04\\Form1.Designer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAQwKcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:38:45.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

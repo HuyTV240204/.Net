@@ -1,0 +1,17 @@
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\bin\Debug\net10.0-windows\Lab04_bt04.exe
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\bin\Debug\net10.0-windows\Lab04_bt04.deps.json
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\bin\Debug\net10.0-windows\Lab04_bt04.runtimeconfig.json
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\bin\Debug\net10.0-windows\Lab04_bt04.dll
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\bin\Debug\net10.0-windows\Lab04_bt04.pdb
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.frmThaotacso.resources
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.csproj.GenerateResource.cache
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.AssemblyInfoInputs.cache
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.AssemblyInfo.cs
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.csproj.CoreCompileInputs.cache
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.dll
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\refint\Lab04_bt04.dll
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.pdb
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.genruntimeconfig.cache
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\ref\Lab04_bt04.dll
+D:\Study\nam4_2\.net_tech\Lab04_bt04\Lab04_bt04\obj\Debug\net10.0-windows\Lab04_bt04.Properties.Resources.resources

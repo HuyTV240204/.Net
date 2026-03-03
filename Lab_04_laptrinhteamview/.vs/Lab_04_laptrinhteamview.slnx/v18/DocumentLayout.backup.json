@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\nam4_2\\.net_tech\\Lab_04_laptrinhteamview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A51609-DA06-40BF-9795-DD590E09D8F6}|Lab_04_laptrinhteamview\\Lab_04_laptrinhteamview.csproj|d:\\study\\nam4_2\\.net_tech\\lab_04_laptrinhteamview\\lab_04_laptrinhteamview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A51609-DA06-40BF-9795-DD590E09D8F6}|Lab_04_laptrinhteamview\\Lab_04_laptrinhteamview.csproj|solutionrelative:lab_04_laptrinhteamview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\nam4_2\\.net_tech\\Lab_04_laptrinhteamview\\Lab_04_laptrinhteamview\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_04_laptrinhteamview\\Form1.cs",
+              "ToolTip": "D:\\Study\\nam4_2\\.net_tech\\Lab_04_laptrinhteamview\\Lab_04_laptrinhteamview\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab_04_laptrinhteamview\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:11:51.135Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
